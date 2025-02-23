@@ -1,2 +1,2 @@
 # BusinessAI
-This is where I store my code for my Artificial Intelligence in Business Course: DATA3290.
+This is where I upload my assignments code for my Artificial Intelligence in Business Course: DATA3290.
